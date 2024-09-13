@@ -1,0 +1,6 @@
+@DWAPI_HostAddress = http://localhost:5269
+
+GET {{DWAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
